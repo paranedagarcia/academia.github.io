@@ -31,7 +31,7 @@ twitter_username: paranedagarcia
 github_username:  paranedagarcia
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
