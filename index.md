@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## Academa Dataclinica
+## Academia Dataclinica
 
 ### Repositorio de códigos de programación
-
+Repositorio para los codigos de programación de los cursos de la academia.
